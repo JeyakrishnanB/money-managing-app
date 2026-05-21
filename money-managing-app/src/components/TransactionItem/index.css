@@ -1,0 +1,23 @@
+.transaction-item {
+  display: flex;
+  align-items: center;
+  border: 1px solid #d7dfe9;
+  padding: 12px;
+  margin-top: -1px;
+}
+
+.transaction-item p {
+  width: 30%;
+  color: #475569;
+  font-size: 14px;
+}
+
+.transaction-item button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.transaction-item img {
+  width: 20px;
+}
